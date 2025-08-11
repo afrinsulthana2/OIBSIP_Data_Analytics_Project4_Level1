@@ -94,7 +94,7 @@ python main.py
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Incorporate **deep learning models** (LSTM, BERT) for improved accuracy
 * Implement **real-time sentiment streaming** from social media APIs
